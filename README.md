@@ -10,4 +10,4 @@ Voici 2 projets tutorés intéressants faits en formation, avec une durée de se
 - [Blog] https://github.com/Sidouzer/Blog_Nouvelles_v0 : Un blog en J2EE permettant la création / suppression de nouvelles, la gestion admin des utilisateurs etc etc.
 
 
-📫 Contactez-moi : [ LinkedIn ](https://www.linkedin.com/in/sid-ksouri-3aba96208) | [ Mail ](sid.ksouri@gmail.com)
+📫 Contact : [ LinkedIn ](https://www.linkedin.com/in/sid-ksouri-3aba96208) | [ Mail ](sid.ksouri@gmail.com)
