@@ -2,6 +2,7 @@ Bonjour ! 👋
 
 Je m'appelle Sid, Concepteur développeur passionné par la création de solutions robustes et innovantes.
 Je suis opérationnel en C, C++, Java (JSE, J2EE, Spring), Web (HTML, CSS, JS, Angular) ainsi qu'en bases de données MySQL et NoSQL.
+Actuellement en train d'apprendre Laravel (framework PHP).
 
 Voici 2 projets tutorés intéressants faits en formation d'une durée de seulement 4 jours, ils sont inachevés (pour l'instant...).
 
